@@ -18,10 +18,9 @@ Example:
 ------
 ![](example/dog.jpg)
 
-`python img2dice.txt dog.jpg`
+`python img2dice.txt dog.jpg` [result](https://htmlpreview.github.io/?https://github.com/Pradus7/img2dice/blob/master/example/example.html)
 
-[result](https://htmlpreview.github.io/?https://github.com/Pradus7/img2dice/blob/master/example/example.html)
-(Recommend zooming out to 33% for best view on desktops)
+(Recommended to view on desktop and zoom out
 
 Current features:
 ------
