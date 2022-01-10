@@ -1,7 +1,7 @@
 img2dice
 =======
 
-This program converts images into an ascii art made up of dices.
+This python program converts images into an ascii art made up of dices.
 
 Accomplished through the use of PIL.
 
