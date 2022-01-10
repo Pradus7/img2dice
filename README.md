@@ -1,11 +1,15 @@
 # img2dice
-This is a program that converts an image placed inside the place_img_here folder into an image made up of dices
+This is a program that converts an image placed inside the place_img_here folder into an image made up of dices through the use of PIL
 
-Current features:
+`"\u2680" "\u2681" "\u2682" "\u2683" "\u2684" "\u2685"`
+
+Usage:
+`python img2dice.txt [directory/filename] [integer downscale factor, default=16]`
+
+# Current features:
 - Converts an image into a image made up of dices 1:1 resolution (dice:pixel)
-- Ability to save the converted image(s) into a .txt file
-- Ability to select custom downscaled resolutions: 1:2, 1:4, 1:8, 1:16 (dice:pixel)
-- Counts the amount of 1-6 dice used to make the image (i.e: 582 '1 dice', 2193 '2 dice', etc.)
+- Saves converted image(s) into a .txt file
+- Ability to select custom downscaled resolutions: 1:2, 1:3, etc. (dice:pixel)
+- Counts the amount of 1-6 dice used to make the image and places it at the end of the generated text file
+- Ability to batch convert images placed inside a directory
 
-Upcoming features:
-- Ability to convert multiple images at once that are placed inside the folder
