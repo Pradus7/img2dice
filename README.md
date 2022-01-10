@@ -10,7 +10,7 @@ Accomplished through the use of PIL.
 Usage:
 ------
 
-`python img2dice.txt [directory/filename] [integer downscale factor, default=4]`
+`python img2dice.py [directory/filename] [integer downscale factor, default=4]`
 
 The converted text files will be placed in the `result` directory and all files will be named `<filename>.txt`.
 
