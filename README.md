@@ -18,7 +18,7 @@ Example:
 ------
 ![](dog.jpg)
 
-`python img2dice.txt cat.jpg`
+`python img2dice.txt dog.jpg`
 
 [result](https://htmlpreview.github.io/?https://github.com/Pradus7/img2dice/blob/master/example.html)
 
