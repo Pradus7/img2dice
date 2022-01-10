@@ -40,7 +40,7 @@ def img2dice(path, imgName, scale=1):
 
 def main():
     filename = sys.argv[1]
-    scale = 16
+    scale = 4
     if len(sys.argv) > 2:
         scale = int(float(sys.argv[2]))
 
