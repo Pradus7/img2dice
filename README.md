@@ -16,7 +16,7 @@ The converted text files will be placed in the `result` directory and all files 
 
 Example:
 ------
-![](images/cat.jpg)
+![](dog.jpg)
 
 `python img2dice.txt cat.jpg`
 
