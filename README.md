@@ -23,8 +23,8 @@ Example:
 
 Current features:
 ------
-- Converts an image into a image made up of dices 1:1 resolution (dice:pixel)
-- Saves converted image(s) into a .txt file
+- Converts an image into an ascii art made up of dices 1:1 resolution (dice:pixel)
+- Saves ascii art into a .txt file
 - Ability to select custom downscaled resolutions: 1:2, 1:3, etc. (dice:pixel)
 - Counts the amount of 1-6 dice used to make the image and places it at the end of the generated text file
 - Ability to batch convert images placed inside a directory
