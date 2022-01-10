@@ -20,7 +20,7 @@ Example:
 
 `python img2dice.txt images 8`
 
-![](result/cat.jpg.txt)
+[demo](https://github.com/Pradus7/img2dice/blob/master/result/example.html)
 
 Current features:
 ------
