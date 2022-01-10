@@ -20,7 +20,7 @@ Example:
 
 `python img2dice.txt images 8`
 
-[example]()
+[example](cat.jpg.txt)
 
 Current features:
 ------
