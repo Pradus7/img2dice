@@ -1,7 +1,7 @@
 # img2dice
 This is a program that converts an image placed inside the place_img_here folder into an image made up of dices through the use of PIL
 
-`"\u2680" "\u2681" "\u2682" "\u2683" "\u2684" "\u2685"`
+&#2680; &#2681; &#2682; &#2683; &#2684; &#2685;
 
 Usage:
 `python img2dice.txt [directory/filename] [integer downscale factor, default=16]`
