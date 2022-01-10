@@ -9,7 +9,7 @@ Usage:
 
 `python img2dice.txt [directory/filename] [integer downscale factor, default=16]`
 
-The converted text files will be placed in the `result` directory and all files will be named `filename.txt`.
+The converted text files will be placed in the `result` directory and all files will be named `<filename>.txt`.
 
 ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅
 
