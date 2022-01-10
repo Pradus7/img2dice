@@ -33,12 +33,12 @@ Example:
 (Recommend viewing on desktop and zooming out)
 
 Dices used:
-1 dice appeared 14720 times.
-2 dice appeared 14150 times.
-3 dice appeared 24669 times.
-4 dice appeared 13588 times.
-5 dice appeared 6697 times.
-6 dice appeared 9426 times.
+- 1 dice appeared 14720 times.
+- 2 dice appeared 14150 times.
+- 3 dice appeared 24669 times.
+- 4 dice appeared 13588 times.
+- 5 dice appeared 6697 times.
+- 6 dice appeared 9426 times.
 
 Current features:
 ------
