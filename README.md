@@ -16,7 +16,9 @@ The converted text files will be placed in the `result` directory and all files 
 
 Example:
 ------
-![](example/dog.jpg)
+![dog.jpg](example/dog.jpg)
+
+Result:
 
 [`python img2dice.py dog.jpg`](https://htmlpreview.github.io/?https://github.com/Pradus7/img2dice/blob/master/example/example.html)
 (Recommend viewing on desktop and zooming out)
