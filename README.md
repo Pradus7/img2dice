@@ -10,9 +10,18 @@ Accomplished through the use of PIL.
 Usage:
 ------
 
-`python img2dice.py [directory/filename] [integer downscale factor, default=4]`
+`python img2dice.py <directory/filename> <integer downscale factor>`
 
-The converted text files will be placed in the `result` directory and all files will be named `<filename>.txt`.
+This program accepts both image files and directories that contain image files.
+
+If given a directory, it will batch convert all image files within the directory.
+
+The ingeger downscale factor is the ratio of pixel:dice, if no input is given the default value of 4 will be used to
+generate an ascii art with ratio of 4 pixels to 1 dice.
+
+Users can input a downscale factor of 1 if you desire a 1 pixel to 1 dice conversion ratio (it's gonna be a ton of dices).
+
+After conversion, a `result` directory will be created and all converted ascii arts are stored in that directory with names `<filename>.txt`
 
 Example:
 ------
